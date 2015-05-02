@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZW-Domaci1", "PZW-Domaci1\PZW-Domaci1.csproj", "{084FDAE8-F66E-454F-B7FD-CE15D9254AD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZW_Domaci1", "PZW-Domaci1\PZW_Domaci1.csproj", "{084FDAE8-F66E-454F-B7FD-CE15D9254AD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
